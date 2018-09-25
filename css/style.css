@@ -1,3 +1,4 @@
+
 p{
   font-size: 14px;
   font-family: 'PT Sans', sans-serif;
@@ -29,4 +30,19 @@ h2{
   border: 1px solid #fff;
   padding: 5px;
   text-align: center;
+}
+.left_image_thumb{
+
+
+}
+.thumbinner{
+  border: 1px solid #c8ccd1;
+  padding: 3px;
+  margin: 0.5em 1.4em 1.3em 0;
+  background-color: #f8f9fa;
+  font-size: 94%;
+  text-align: center;
+  overflow: hidden;
+  float: left;
+  clear: left;
 }
